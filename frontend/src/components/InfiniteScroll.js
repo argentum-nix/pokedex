@@ -46,7 +46,6 @@ const InfiniteScroll = (props) => {
       });
   };
 
-  console.log(props.endpoint);
   return (
     <>
       {start && <LinearProgress />}
