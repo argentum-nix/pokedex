@@ -13,4 +13,4 @@ Para la implementación del proyecto se utilizaron las siguientes tecnologías:
 
 En cada subcarpeta se encuentra un readme con su breve descripción.
 
-La deploy de la aplicación está disponible en [Netlify](https://pokedex-hp.netlify.app/)
+El deploy de la aplicación está disponible en [Netlify](https://pokedex-hp.netlify.app/)
